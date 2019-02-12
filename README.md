@@ -1,2 +1,4 @@
 # Red Wine Exploratory Data Analysis 
-please see rmd file
+Explore Red wine Quality dataset in R.
+The analysis has visualization and show correlation of strong and weak relationships.
+For more information check the RMD file.
